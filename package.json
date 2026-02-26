@@ -1,7 +1,4 @@
 {
-  "name": "my-cyber-blog",
-  "version": "1.0.0",
-  "description": "我的算法学习博客",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
